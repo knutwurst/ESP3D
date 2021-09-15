@@ -1,11 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Wiki
-    url: https://github.com/luc-github/ESP3D/wiki
-    about: The Wiki has lot of informations.
-  - name: F.A.Q. (Frequent asked questions)
-    url: https://github.com/luc-github/ESP3D/issues?utf8=%E2%9C%93&q=label%3AFAQ
-    about: The usual questions / problems meet and their solution  
-  - name: Discord chat
-    url: https://discord.gg/Z4ujTwE
-    about: Join the discord for support and discussion.
+  - name: Knutwurst Wiki
+    url: https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki
+    about: Lots of documentation on installing and using Knutwurst Firmware.
+  - name: FAQ
+    url: https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/FAQ-(english)
+    about: Please look for your question here
+  - name: Official Facebook Group (german)
+    url: https://www.facebook.com/groups/3094090037303577
+    about: If you need general help (english/german), please ask your question here
+  - name: Knuwturst Videos on YouTube
+    url: https://www.youtube.com/results?search_query=knutwurst+firmware
+    about: Tutorials and more from Knutwurst users all around the world. Great for new users!
